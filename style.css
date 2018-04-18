@@ -1,0 +1,64 @@
+.container{
+    width: 1122px;
+    height: 896px;
+
+    
+    background-image: url("https://thumbs.dreamstime.com/b/pasta-tomatoes-salad-pepper-mushrooms-book-recipes-wooden-table-background-66399706.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+
+}
+
+.rectangular{
+
+    position: relative;
+    width: 68%;
+    height: 42%;
+    margin-top: 18%;
+    margin-left: 17%;
+    background-color:rgb(91, 121, 134);
+
+}
+
+.rect-small{
+
+    position: relative;
+    width: 48%;
+    height: 118%;
+    margin-top: 25%;
+    margin-left: 46%;
+    background-color: yellow;    ;
+   
+
+
+}
+
+.message{
+
+    position: relative;
+    width: 92%;
+    margin-left: 4%;
+    margin-top: 56%;;
+    background-color: white   ;
+    size: 20%;
+
+
+}
+
+.photo-user img{
+
+    left: 56%;
+    margin-top: 10%;
+    z-index: 1;
+    
+  
+    
+  height: 20%;
+  width: 20%;
+  background-color: #bbb;
+  border-radius: 50%;
+  float: left;
+  position: relative;
+  
+}
